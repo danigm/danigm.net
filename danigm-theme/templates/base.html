@@ -5,6 +5,9 @@
         <meta charset="utf-8" />
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
         <link rel="shortcut icon" href="{{ SITEURL }}/theme/css/favicon.ico" type="image/vnd.microsoft.icon" />
+        <link rel="alternate" type="application/rss+xml" title="danigm.net RSS" href="/feeds/rss.xml" />
+        {% block extrahead %}
+        {% endblock %}
    
 
         <!--[if IE]>
@@ -35,14 +38,41 @@
                 {% for cat, null in categories %}
                     <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
                 {% endfor %}
+
+                <li><a href="{{ SITEURL }}/archives.html">archivo</a></li>
+                <li><a href="{{ SITEURL }}/tags.html">etiquetas</a></li>
+
                 </ul></nav>
         </header><!-- /#banner -->
+
+        <div class="wrap">
+
+        <div class="pcontent">
         {% block content %}
         {% endblock %}
-        <section id="extras" class="body">
+        </div>
+
+        <div class="sidebar">
+
+        <section id="extras">
+            <div class="foot">
+                <h2>Tira de Linux Hispano</h2>
+                <a href="http://linuxhispano.net/tira"><img alt="tira" src="http://linuxhispano.net/tira/vinieta.png"></a>
+            </div>
+        {% if SOCIAL %}
+                <div class="social">
+                        <h2>Social</h2>
+                        <ul>
+                        {% for name, link in SOCIAL %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                        {% endfor %}
+                        </ul>
+                </div><!-- /.social -->
+        {% endif %}
+
         {% if LINKS %}
                 <div class="blogroll">
-                        <h2>blogroll</h2>
+                        <h2>Links</h2>
                         <ul>
                         {% for name, link in LINKS %}
                             <li><a href="{{ link }}">{{ name }}</a></li>
@@ -50,18 +80,32 @@
                         </ul>
                 </div><!-- /.blogroll -->
         {% endif %}
-        {% if SOCIAL %}
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-                            
-                        {% for name, link in SOCIAL %}
-                            <li><a href="{{ link }}">{{ name }}</a></li>
-                        {% endfor %}
-                        </ul>
-                </div><!-- /.social -->
-        {% endif %}
+
+            <div class="foot feeds">
+                <h2>Feeds</h2>
+                <a href="/feeds/rss.xml" class="feed">rss</a>
+                {% for cat, null in categories %}
+                    <a href="/feeds/cat/{{ cat }}.rss.xml" class="feed">{{ cat }}</a>
+                {% endfor %}
+
+                <h2>RSS - tags</h2>
+                {% for t, null in tags %}
+                    <a href="/feeds/tags/{{ t }}.rss.xml" class="feed">{{ t }}</a>
+                {% endfor %}
+            </div>
+
+            <div class="foot">
+                <h2>Contacto</h2>
+                <a href="#">Formulario de contacto</a>
+                <a href="mailto:dani@danigm.net">dani@danigm.net</a>
+            </div>
+
         </section><!-- /#extras -->
+        <div class="clear"></div>
+
+        </div>
+
+        </div>
 
         <footer id="contentinfo" class="body">
 
