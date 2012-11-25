@@ -60,8 +60,6 @@ TAG_CLOUD_STEPS = 4
 # Maximum tags count in the cloud.
 TAG_CLOUD_MAX_ITEMS = 200
 
-DISPLAY_PAGES_ON_MENU = True
-
 THEME = "danigm-theme"
 #THEME = "dev-random"
 
