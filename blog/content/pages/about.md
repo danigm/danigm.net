@@ -2,16 +2,19 @@ Date: 2012-11-26
 Title: Sobre mí
 Slug: about
 
+<div class="gravatar post-info">
+    <strong>danigm</strong>
+    <img src="http://www.gravatar.com/avatar/8da96af78e0089d6d970bf3760b0e724?s=190" alt="gravatar"/>
+    Daniel García Moreno
+</div>
+
 * [Experiencia profesional](#work)
 * [Desarrollos](#devs)
 * [Diseños](#design)
 * [Docencia](#teaching)
 * [Charlas](#talks)
 
-        :::python
-        >>> print(danigm_skills)
-        ['linux', 'vim', 'git', 'python', 'django',
-         'C', 'C++', 'Gtk', 'Qt', 'QML']
+***linux, vim, git, python, django, C, C++, Gtk, Qt, QML***
 
 ## Datos académicos
 
