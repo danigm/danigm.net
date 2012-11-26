@@ -9,7 +9,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'es'
 
-DIRECT_TEMPLATES = ('notfound',)
+DIRECT_TEMPLATES = ('notfound', 'tags',)
 
 # Blogroll
 LINKS =  (
