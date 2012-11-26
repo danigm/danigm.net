@@ -6,3 +6,9 @@ Slug: my-super-post
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
 
 This is the content of my super blog post.
+
+<p class="img">
+    <a href="pictures/wbg-black.png">
+        <img src="pictures/wbg-black.png" />
+    </a>
+</p>
