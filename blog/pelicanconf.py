@@ -16,6 +16,8 @@ LINKS =  (
     ('wadobo', 'http://wadobo.com'),
     ('CUSL', 'http://www.concursosoftwarelibre.org/'),
     ('Linux Hispano', 'http://www.linuxhispano.net'),
+    ('Blog antiguo', 'http://old.danigm.net/'),
+    (u'Blog más antiguo', 'http://danigm.wordpress.com/'),
 )
 
 # Social widget
