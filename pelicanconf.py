@@ -9,6 +9,8 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'es'
 
+DIRECT_TEMPLATES = ('notfound',)
+
 # Blogroll
 LINKS =  (
     ('wadobo', 'http://wadobo.com'),
