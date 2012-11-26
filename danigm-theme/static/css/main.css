@@ -355,7 +355,11 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 /*
     Footer
 *****************/
-#contentinfo {padding-bottom: 2em; text-align: right;}
+#contentinfo {
+    padding-bottom: 2em;
+    text-align: center;
+    color: #aaa;
+}
 
 /***** Sections *****/
 /* Blog */

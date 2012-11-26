@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"danigm"
-SITENAME = u""
+SITENAME = u"danigm.net"
 SITEURL = 'http://danigm.net'
 
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'es'
 
-DIRECT_TEMPLATES = ('notfound', 'tags', 'archives')
+DIRECT_TEMPLATES = ('index', 'categories', 'notfound', 'tags', 'archives')
 
 # Blogroll
 LINKS =  (
@@ -64,4 +64,3 @@ TAG_CLOUD_MAX_ITEMS = 200
 
 THEME = "danigm-theme"
 #THEME = "dev-random"
-
