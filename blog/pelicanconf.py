@@ -22,9 +22,9 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-    ('github', 'http://github.com/danigm'),
     ('twitter', 'http://twitter.com/danigm'),
     ('facebook', 'http://facebook.com/danigmx'),
+    ('github', 'http://github.com/danigm'),
 )
 
 DISQUS_SITENAME = "danigm"

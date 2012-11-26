@@ -232,7 +232,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     margin-bottom: 2em;
     overflow: hidden;
     padding: 20px;
-    width: 550px;
+    width: 530px;
     
     border-radius: 0px;
     -moz-border-radius: 0px;
@@ -262,7 +262,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
     margin-bottom: 2em;
     overflow: hidden;
     padding: 20px 20px;
-    width: 550px;
+    width: 530px;
     
     border-radius: 0px;
     -moz-border-radius: 0px;
@@ -541,12 +541,12 @@ p.img {
 }
 
 .pcontent {
-    width: 550px;
+    width: 530px;
     float: left;
 }
 
 .sidebar {
-    width: 200px;
+    width: 220px;
     float: left;
     margin-left: 50px;
 }
