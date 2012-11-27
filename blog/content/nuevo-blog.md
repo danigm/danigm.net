@@ -6,7 +6,7 @@ Slug: nuevo-blog
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
 
 Hacía ya bastante tiempo que venía queriendo cambiar mi
-[antiguo blog][1], tenía un [drupal][3]. La decisión de poner un drupal como
+[antiguo blog][1], tenía un [drupal][2]. La decisión de poner un drupal como
 blog fue algo que tomé así a la ligera, lo mismo que puse un drupal
 podría haber puesto un wordpress[4]. La cosa es que cuando monté mi blog
 en mi servidor personal era cuando se pusieron de moda los CMS estos y
