@@ -3,8 +3,9 @@
 
 AUTHOR = u"danigm"
 SITENAME = u"danigm.net"
-SITEURL = 'http://danigm.net'
+SITEURL = 'http://localhost:8000'
 
+RELATIVE_URLS = False
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'es'
@@ -27,7 +28,7 @@ SOCIAL = (
     ('github', 'http://github.com/danigm'),
 )
 
-DISQUS_SITENAME = "danigm"
+DISQUS_SITENAME = ""
 TWITTER_USERNAME = "danigm"
 
 #A list of the extensions that the markdown processor will use.
