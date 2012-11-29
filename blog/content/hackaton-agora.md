@@ -1,6 +1,6 @@
 Date: 2012-11-29
 Title: Hackatón de Ágora Ciuadana
-Tags: agora, dibujo
+Tags: agora, dibujo, wadobo
 Category: blog
 Slug: hackaton-agora
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
