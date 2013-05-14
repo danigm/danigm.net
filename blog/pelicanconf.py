@@ -17,6 +17,7 @@ LINKS =  (
     ('wadobo', 'http://wadobo.com'),
     ('CUSL', 'http://www.concursosoftwarelibre.org/'),
     ('Linux Hispano', 'http://www.linuxhispano.net'),
+    (u'A.D. Baloncesto Fernán Nuñez', 'http://adfn.es'),
     ('Blog antiguo', 'http://old.danigm.net/'),
     (u'Blog más antiguo', 'http://danigm.wordpress.com/'),
 )
