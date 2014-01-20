@@ -16,6 +16,8 @@ Slug: about
 
 ***linux, vim, git, python, django, C, C++, Gtk, Qt, QML***
 
+[English Version](/pages/about-en.html)
+
 ## Datos académicos
 
 * Licenciado en Ingeniería Informática por la Universidad de Sevilla.
