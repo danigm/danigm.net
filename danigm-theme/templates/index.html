@@ -31,7 +31,9 @@ danigm.net
             <aside id="featured" class="body">
                 <article>
                     <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1> 
-                    {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}
+                    {{ article.content }}
+                    {% include 'article_infos.html' %}
+                    {% include 'comments.html' %}
                 </article>
                 {% if loop.length == 1 %}
                     {% include 'pagination.html' %}
@@ -54,9 +56,10 @@ danigm.net
                         <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title}}">{{ article.title }}</a></h1>
                 </header>
                 <div class="entry-content">
-                {% include 'article_infos.html' %}
                 {{ article.summary }}
                 <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">Leer más</a>
+                <div class="clear"></div>
+                {% include 'article_infos.html' %}
                 {% include 'comments.html' %}
                 <div class="clear"></div>
                 </div><!-- /.entry-content -->

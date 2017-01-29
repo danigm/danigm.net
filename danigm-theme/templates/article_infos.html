@@ -1,22 +1,25 @@
 <footer class="post-info">
     <div class="gravatar">
+        {% include 'taglist.html' %}
+
+        {% if article.gravatar %}
+            <img src="http://www.gravatar.com/avatar/{{ article.gravatar }}?s=64" alt="gravatar"/>
+        {% endif %}
+
+        <div class="info">
         {% if article.author %}
         <address class="vcard author">
             <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
-            {% if article.gravatar %}
-                <img src="http://www.gravatar.com/avatar/{{ article.gravatar }}?s=190" alt="gravatar"/>
-            {% endif %}
         </address>
         {% endif %}
         <abbr class="published" title="{{ article.date.isoformat() }}">
                 {{ article.locale_date }}
         </abbr>
 
-
         <p>En <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>.
         {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">get the pdf</a>{% endif %}</p>
+        </div>
 
-        {% include 'taglist.html' %}
         {% include 'translations.html' %}
         <div class="clear"></div>
     </div>
