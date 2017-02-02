@@ -3,9 +3,10 @@ Title: About me
 Slug: about-en
 
 <div class="gravatar post-info">
-    <strong>danigm</strong>
-    <img src="http://www.gravatar.com/avatar/8da96af78e0089d6d970bf3760b0e724?s=190" alt="gravatar"/>
+    <img src="http://www.gravatar.com/avatar/8da96af78e0089d6d970bf3760b0e724?s=64" alt="gravatar"/>
+    <strong>danigm</strong><br/>
     Daniel García Moreno
+    <div class="clear"></div>
 </div>
 
 * [Work](#work)
@@ -14,7 +15,7 @@ Slug: about-en
 * [Training](#teaching)
 * [Talks](#talks)
 
-***linux, vim, git, python, django, C, C++, Gtk, Qt, QML***
+***linux, vim, git, python, django, C, C++, Gtk, Qt, Rust***
 
 [Versión en Español](/pages/about.html)
 
@@ -56,6 +57,12 @@ as scholar programming with java. *(2006)*
 ### Devs
 
 * My developments in [github](http://github.com/danigm).
+
+* Development of a library to read EPUB documents, written in rust,
+  [epub-rs](https://crates.io/crates/epub).
+
+* Development of a library to read EPUB documents, written in C using
+  gobject, [libgepub](https://git.gnome.org/browse/libgepub/).
 
 * Development of an open source barter platform written with python and
 django, [etruekko](https://github.com/wadobo/etruekko).
@@ -127,6 +134,9 @@ given for administrative and service personal of Seville University.
 
 <div id="talks"></div>
 ### Talks
+
+* [Aplicaciones de escritorio con Python3 y Gtk+](http://2016.es.pycon.org/es/schedule/aplicaciones-de-escritorio-con-python3-y-gtk/),
+Talk in the PyconEs 2016, in Almería.
 
 * [Gobject introspection, lo bueno, lo malo y lo mejor](http://www.flickr.com/photos/anarey/7691578284/),
 Guadec-es IX A Coruña, July, 30th and 31th of 2012.

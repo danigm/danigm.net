@@ -3,9 +3,10 @@ Title: Sobre mí
 Slug: about
 
 <div class="gravatar post-info">
-    <strong>danigm</strong>
-    <img src="http://www.gravatar.com/avatar/8da96af78e0089d6d970bf3760b0e724?s=190" alt="gravatar"/>
+    <img src="http://www.gravatar.com/avatar/8da96af78e0089d6d970bf3760b0e724?s=64" alt="gravatar"/>
+    <strong>danigm</strong><br/>
     Daniel García Moreno
+    <div class="clear"></div>
 </div>
 
 * [Experiencia profesional](#work)
@@ -14,7 +15,7 @@ Slug: about
 * [Docencia](#teaching)
 * [Charlas](#talks)
 
-***linux, vim, git, python, django, C, C++, Gtk, Qt, QML***
+***linux, vim, git, python, django, C, C++, Gtk, Qt, Rust***
 
 [English Version](/pages/about-en.html)
 
@@ -56,6 +57,12 @@ de identidad. *(2007)*
 ### Desarrollos
 
 * Mis desarrollos en [github](http://github.com/danigm).
+
+* Desarrollo de una biblioteca para lectura de documentos EPUB en rust,
+  [epub-rs](https://crates.io/crates/epub).
+
+* Desarrollo de una biblioteca para lectura de documentos EPUB en C, con
+  gobject, [libgepub](https://git.gnome.org/browse/libgepub/).
 
 * Desarrollo de un aplicación web libre de intercambio, escrita en python con
 django, [etruekko](https://github.com/wadobo/etruekko).
@@ -123,6 +130,9 @@ Universidad de Sevilla.
 
 <div id="talks"></div>
 ### Charlas
+
+* [Aplicaciones de escritorio con Python3 y Gtk+](http://2016.es.pycon.org/es/schedule/aplicaciones-de-escritorio-con-python3-y-gtk/),
+Charla impartida durante la PyconEs 2016, en Almería.
 
 * [Gobject introspection, lo bueno, lo malo y lo mejor](http://www.flickr.com/photos/anarey/7691578284/),
 Guadec-es IX A Coruña celebrada los días 30 y 31 de Julio de 2012.
