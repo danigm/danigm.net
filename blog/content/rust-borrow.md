@@ -386,7 +386,7 @@ Estos tipos son útiles en combinación con los tipos *Rc*.
 
 ## [Rc][7], punteros con contador de referencias
 
-El tipo *Rc<T>* nos ofrece una propiedad compartida del valor de tipo *T*.
+El tipo *Rc<T\>* nos ofrece una propiedad compartida del valor de tipo *T*.
 Podemos llamar la función *clone* para crear una nueva referencia al mismo
 valor en memoria. El propio tipo se encarga de decrementar el número de
 referencias cuando salen del ámbito y de liberar la memoria cuando ya no
@@ -425,19 +425,19 @@ una referencia, pero que no cuenta a la hora de eliminar el valor de
 memoria, por lo tanto pueden existir referencias tipo *Weak* que apunten a
 memoria ya liberada, y por esto el tipo *Weak* no se derreferencia
 automáticamente, hay que llamar al método *upgrade* que devuelve un
-*Option<Rc>*, y si la memoria ya se ha liberado será *None*.
+*Option<Rc\>*, y si la memoria ya se ha liberado será *None*.
 
 ## [Arc y Mutex][8], Rc y RefCell pero thread-safe
 
-La combinación *Rc<RefCell<T>>* nos permite tener varias referencias a la
+La combinación *Rc<RefCell<T\>\>* nos permite tener varias referencias a la
 misma zona de memoria, y modificarla, pero no es posible pasar estos tipos
 entre hilos. *Rust* ofrece un par de tipos similares, pero que sí son
 *thread-safe*, lo que quiere decir que nos asegura que no hay *data race*,
 es decir, que la memoria siempre es consistente, aunque usemos diferentes
 hilos para leer y modificar estas variables.
 
-Para esto podemos usar la combinación *Arc<Mutex<T>>* que se usa de forma
-similar a *Rc<RefCell>*, pero que nos asegura que es seguro usar entre
+Para esto podemos usar la combinación *Arc<Mutex<T\>\>* que se usa de forma
+similar a *Rc<RefCell\>*, pero que nos asegura que es seguro usar entre
 diferentes hilos:
 
 ```rust
