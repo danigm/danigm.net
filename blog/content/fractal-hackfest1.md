@@ -57,7 +57,7 @@ calculate the room name with the same algorithm, if there're only two
 people, we'll use the other person username, if there's three people we'll
 use "one and another" and if there're more we'll use "one and others".
 
-## Gnone dinner
+## Gnome dinner
 
 We've a good dinner sponsored by the gnome foundation. Thank you so much.
 
