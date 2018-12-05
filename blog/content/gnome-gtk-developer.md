@@ -32,10 +32,10 @@ as external consultant for bigger companies. We do a lot of work related with
 GNU/Linux and free software, but lately we mainly do web apps with python
 and react, because that's what our current clients ask for.
 
-But the first payed project for wadobo was a GNOME project, I started the
+But the first paid project for wadobo was a GNOME project, I started the
 company with a small project to improve accessibility in PDF documents, working
 directly in evince. And then we worked with Qt, QML and other technologies, but
-I wasn't able to get a payed work on GNOME or Gtk+ since that initial work.
+I wasn't able to get a paid work on GNOME or Gtk+ since that initial work.
 
 In any case, I continued working in GNOME in my spare time, trying to
 contribute, first with [libgepub][5], trying to bring epub support to evince,
