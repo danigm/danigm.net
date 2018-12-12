@@ -110,6 +110,6 @@ time helping us to organize all the hackfest stuff.
 
 [1]: https://gnome.org
 [2]: https://wadobo.com
-[3]: https://plan4d.eu
+[3]: https://www.plan4d.eu
 [4]: https://wiki.gnome.org/Hackfests/FractalDecember2018
 [5]: https://sugus.eii.us.es/
