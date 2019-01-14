@@ -62,7 +62,7 @@ Editor.
 
 ### Fractal
 
-[Maira][3] is the intern working in Fractal. They is working in the initial
+[Maira][3] is the intern working in Fractal. They are working in the initial
 video preview widget.
 
 Fractal is a instant messaging app that works over matrix.org. Currently we
@@ -78,7 +78,7 @@ deal with bindings and language stuff, but I think it's doable.
 
 During the internship, Maira is also working fixing some bugs in the audio
 player, becuase it uses gstreamer too, so during the code review, Maira
-detected some problems and they is fixing it.
+detected some problems and they are fixing it.
 
 [1]: https://www.outreachy.org/
 [2]: https://teja.cetinski.eu/blog
