@@ -32,7 +32,7 @@ the one who knows everything, there are a lot of rare cases that I don't know
 about.
 
 <p class="img">
-    <img src="/static/pictures/blindfolded/kungfu.gif" />
+    <img src="/pictures/blindfolded/kungfu.gif" />
 </p>
 
 I've found and fixes several bugs in different projects, that I don't know about
@@ -63,7 +63,7 @@ sure that other developers has this feeling too, that feeling that guides you
 to the exact problem but that you're not able to rationalize.
 
 <p class="img">
-    <img src="/static/pictures/blindfolded/fight.gif" />
+    <img src="/pictures/blindfolded/fight.gif" />
 </p>
 
 I think that this is the experience, the expertise is your body and your

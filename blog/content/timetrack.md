@@ -9,8 +9,8 @@ This week I started a new small project called [Timetrack][1], you can find
 the code in the [gnome gitlab][2].
 
 <p class="img">
-    <a href="/static/pictures/timetrack1.png">
-        <img src="/static/pictures/timetrack1.png" />
+    <a href="/pictures/timetrack1.png">
+        <img src="/pictures/timetrack1.png" />
     </a>
 </p>
 
@@ -28,8 +28,8 @@ didn't find any extension that is good for me.
 I've had a [custom simple web app][3] to track my time.
 
 <p class="img">
-    <a href="/static/pictures/wadobo-objs.png">
-        <img src="/static/pictures/wadobo-objs.png" />
+    <a href="/pictures/wadobo-objs.png">
+        <img src="/pictures/wadobo-objs.png" />
     </a>
 </p>
 
@@ -44,8 +44,8 @@ won't be hard to implement it. So I started with a simple python app based
 on the code of [Password Safe][4].
 
 <p class="img">
-    <a href="/static/pictures/timetrack2.png">
-        <img src="/static/pictures/timetrack2.png" />
+    <a href="/pictures/timetrack2.png">
+        <img src="/pictures/timetrack2.png" />
     </a>
 </p>
 

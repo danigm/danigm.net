@@ -16,7 +16,7 @@ etc.
 
 <center>
     <p class="img">
-    <img src="/static/pictures/fractal-seville-hackfest-2.jpg" width="100%"/>
+    <img src="/pictures/fractal-seville-hackfest-2.jpg" width="100%"/>
     </p>
 </center>
 
@@ -92,7 +92,7 @@ us to a great lunch in the city center.
 
 <a href="http://www.plan4d.eu/"><center>
     <p class="img">
-    <img src="/static/pictures/plan4d.jpg"/>
+    <img src="/pictures/plan4d.jpg"/>
     </p>
 </center></a>
 

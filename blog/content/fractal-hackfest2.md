@@ -10,7 +10,7 @@ lot of topics and takes some important decisions.
 
 <center>
     <p class="img">
-    <img src="/static/pictures/fractal-hackfest2.png" width="100%"/>
+    <img src="/pictures/fractal-hackfest2.png" width="100%"/>
     </p>
 </center>
 
@@ -82,7 +82,7 @@ communities protocol soon.
 
 <center>
     <p class="img">
-    <img src="/static/pictures/fractal-hackfest1.png" width="100%" />
+    <img src="/pictures/fractal-hackfest1.png" width="100%" />
     </p>
 </center>
 
@@ -140,7 +140,7 @@ on this great project.
 
 <center>
     <a href="https://wadobo.com">
-        <img src="/static/pictures/wadobo-mini.png" />
+        <img src="/pictures/wadobo-mini.png" />
     </a>
 </center>
 

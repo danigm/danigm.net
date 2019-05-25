@@ -10,8 +10,8 @@ This is the new release of the well known **Gtranslator**. I talked about
 the [**Gtranslator Ressurection**][2] some time ago and this is the result:
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator3.30.png">
-        <img src="/static/pictures/gtranslator3.30.png" />
+    <a href="/pictures/gtranslator3.30.png">
+        <img src="/pictures/gtranslator3.30.png" />
     </a>
 </p>
 
@@ -25,8 +25,8 @@ This release doesn't add new functionality. The main change is in the code,
 and in the interface.
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator1.png">
-        <img src="/static/pictures/gtranslator1.png" />
+    <a href="/pictures/gtranslator1.png">
+        <img src="/pictures/gtranslator1.png" />
     </a>
 </p>
 
@@ -52,8 +52,8 @@ There's others minor changes like the new look when you open the app without
 any file:
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator-open.png">
-        <img src="/static/pictures/gtranslator-open.png" />
+    <a href="/pictures/gtranslator-open.png">
+        <img src="/pictures/gtranslator-open.png" />
     </a>
 </p>
 
@@ -61,8 +61,8 @@ Or the new language selector that autofill all the profile fields using the
 language:
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator-lang.png">
-        <img src="/static/pictures/gtranslator-lang.png" />
+    <a href="/pictures/gtranslator-lang.png">
+        <img src="/pictures/gtranslator-lang.png" />
     </a>
 </p>
 
@@ -77,8 +77,8 @@ And for sure we've tried to fix most important bugs:
 ## New name and new Icon
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator-icon.png">
-        <img src="/static/pictures/gtranslator-icon.png" />
+    <a href="/pictures/gtranslator-icon.png">
+        <img src="/pictures/gtranslator-icon.png" />
     </a>
 </p>
 

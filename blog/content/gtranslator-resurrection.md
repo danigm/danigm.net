@@ -41,8 +41,8 @@ Gtranslator has a GNOME 2.0 interface, with toolbar, menus, statusbar and
 dockable widgets:
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator1.png">
-        <img src="/static/pictures/gtranslator1.png" />
+    <a href="/pictures/gtranslator1.png">
+        <img src="/pictures/gtranslator1.png" />
     </a>
 </p>
 
@@ -83,8 +83,8 @@ functionality or Merge Requests, you only need to download the .flatpak and
 install locally, no need to build at all.
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator-gitlab.png">
-        <img src="/static/pictures/gtranslator-gitlab.png" />
+    <a href="/pictures/gtranslator-gitlab.png">
+        <img src="/pictures/gtranslator-gitlab.png" />
     </a>
 </p>
 
@@ -95,8 +95,8 @@ working yet, so I reworked that a bit and convert the *project* selector to a
 old interface, but without the menu, toolbar and statusbar.
 
 <p style="text-align: center" class="img">
-    <a href="/static/pictures/gtranslator2.png">
-        <img src="/static/pictures/gtranslator2.png" />
+    <a href="/pictures/gtranslator2.png">
+        <img src="/pictures/gtranslator2.png" />
     </a>
 </p>
 

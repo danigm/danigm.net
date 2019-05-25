@@ -35,8 +35,8 @@ pero se propuso un objetivo en concreto y en eso hemos estado
 trabajando.
 
 <p class="img">
-    <a href="/static/pictures/agora-piweek.jpg">
-        <img src="/static/pictures/agora-piweek.jpg" />
+    <a href="/pictures/agora-piweek.jpg">
+        <img src="/pictures/agora-piweek.jpg" />
     </a>
     El equipo de trabajo de Agora Ciudadana en las oficinas de Kaleidos
 </p>

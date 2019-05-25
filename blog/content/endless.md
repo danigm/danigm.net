@@ -70,8 +70,8 @@ This is the way that [Fedora SilverBlue][6] is trying to follow and is a *new*
 way to build and distribute GNU/Linux.
 
 <p class="img">
-    <a href="/static/pictures/hack-mount-tree.png">
-        <img src="/static/pictures/hack-mount-tree.png" />
+    <a href="/pictures/hack-mount-tree.png">
+        <img src="/pictures/hack-mount-tree.png" />
     </a>
 </p>
 
@@ -82,7 +82,7 @@ college friends to try to continue hacking like we were hacking in the Seville
 LUG [SUGUS][8] and earn money from that, and we did it for a long time.
 
 <p class="img">
-  <img src="/static/pictures/wadobo-old-2.jpg" />
+  <img src="/pictures/wadobo-old-2.jpg" />
 </p>
 
 We've been working in free software projects and with free software technology,
@@ -90,7 +90,7 @@ contributing to the community as much as we can and always trying to free our
 work.
 
 <p class="img">
-  <img src="/static/pictures/wadobo-old-1.jpg" />
+  <img src="/pictures/wadobo-old-1.jpg" />
 </p>
 
 We created some projects that grow up and follow its own path, like the
@@ -102,7 +102,7 @@ I need it, because I was the one deciding what I want to do. But in the other
 hand, I've been stuck in the local consultancy market for a long time.
 
 <p class="img">
-  <img src="/static/pictures/wadobo-old-3.jpg" />
+  <img src="/pictures/wadobo-old-3.jpg" />
 </p>
 
 I'm not a business man, I'm a developer and I'm based in Spain, where there
@@ -117,7 +117,7 @@ a Linux User Group or maybe in the future someone takes the initiative and
 build a business around this again.
 
 <p class="img">
-  <img src="/static/pictures/wadobo-old-4.jpg" />
+  <img src="/pictures/wadobo-old-4.jpg" />
 </p>
 
 ## Hacking

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 inotifywait -e modify $1
-make
+./build.sh
 ./autoreload.sh $1

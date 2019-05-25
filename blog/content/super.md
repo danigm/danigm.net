@@ -12,8 +12,8 @@ pantalla táctil y un lapiz, de tal forma que la pantalla funciona como una
 tableta wacom, así que, he hecho un dibujo:
 
 <p class="img">
-    <a href="/static/pictures/super.png">
-        <img src="/static/pictures/super.png" />
+    <a href="/pictures/super.png">
+        <img src="/pictures/super.png" />
     </a>
 </p>
 

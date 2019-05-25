@@ -63,15 +63,15 @@ Así pues, desde [wadobo labs][2], nos hemos puesto a desarrollar él
 clon con una licencia libre AGPLv3.
 
 <p class="img">
-    <a href="/static/pictures/trello.png">
-        <img src="/static/pictures/trello.png" />
+    <a href="/pictures/trello.png">
+        <img src="/pictures/trello.png" />
     </a>
     Trello.com en funcionamiento
 </p>
 
 <p class="img">
-    <a href="/static/pictures/ftask.png">
-        <img src="/static/pictures/ftask.png" />
+    <a href="/pictures/ftask.png">
+        <img src="/pictures/ftask.png" />
     </a>
     Ftask en funcionamiento
 </p>
@@ -91,8 +91,8 @@ podemos cambiarlo más adelante.
 ### Arquitectura
 
 <p class="img">
-    <a href="/static/pictures/ftask-arch.png">
-        <img src="/static/pictures/ftask-arch.png" />
+    <a href="/pictures/ftask-arch.png">
+        <img src="/pictures/ftask-arch.png" />
     </a>
     Arquitectura del proyecto FTask
 </p>

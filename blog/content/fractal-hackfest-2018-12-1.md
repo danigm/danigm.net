@@ -39,7 +39,7 @@ thanks this great dinner to GNOME:
 
 <center>
     <p class="img">
-    <img src="/static/pictures/fractal-seville-hackfest-dinner.jpg" width="100%"/>
+    <img src="/pictures/fractal-seville-hackfest-dinner.jpg" width="100%"/>
     </p>
 </center>
 
@@ -54,7 +54,7 @@ yesterday. We've resolved some minor issues and I started with the
 
 <center>
     <p class="img">
-    <img src="/static/pictures/fractal-seville-hackfest-computer.jpg" width="100%"/>
+    <img src="/pictures/fractal-seville-hackfest-computer.jpg" width="100%"/>
     </p>
 </center>
 
@@ -80,7 +80,7 @@ hackfest.
 
 <center>
     <p class="img">
-    <img src="/static/pictures/fractal-seville-hackfest-julian.jpg" width="100%"/>
+    <img src="/pictures/fractal-seville-hackfest-julian.jpg" width="100%"/>
     </p>
 </center>
 
@@ -97,7 +97,7 @@ I want to thank to other free software related group [Plan4D][3].
 
 <a href="http://www.plan4d.eu/"><center>
     <p class="img">
-    <img src="/static/pictures/plan4d.jpg"/>
+    <img src="/pictures/plan4d.jpg"/>
     </p>
 </center></a>
 

@@ -29,8 +29,8 @@ saludo correctamente, pero estoy decidido a aprender, es una manera
 muy divertida de hacer deporte y mantenerse en forma.
 
 <p class="img">
-    <a href="/static/pictures/wushu.jpg">
-        <img src="/static/pictures/wushu.jpg" />
+    <a href="/pictures/wushu.jpg">
+        <img src="/pictures/wushu.jpg" />
     </a>
 </p>
 

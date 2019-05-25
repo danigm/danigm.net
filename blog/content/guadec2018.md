@@ -20,8 +20,8 @@ time in the beach.
 
 <center>
 <p class="img">
-    <a href="/static/pictures/almeria.jpg">
-        <img src="/static/pictures/almeria.jpg" alt="almeria" />
+    <a href="/pictures/almeria.jpg">
+        <img src="/pictures/almeria.jpg" alt="almeria" />
     </a>
 </p>
 </center>
@@ -50,8 +50,8 @@ wikipedia GUADEC article photo, from that year, try to find me there.
 
 <center>
 <p class="img">
-    <a href="/static/pictures/guadec-2012.jpg">
-        <img src="/static/pictures/guadec-2012.jpg" alt="guadec-2012" />
+    <a href="/pictures/guadec-2012.jpg">
+        <img src="/pictures/guadec-2012.jpg" alt="guadec-2012" />
     </a>
 </p>
 </center>
@@ -66,8 +66,8 @@ the GNOME crew.
 
 <center>
 <p class="img">
-    <a href="/static/pictures/alcazaba-gnome.jpg">
-        <img src="/static/pictures/alcazaba-gnome.jpg" alt="alcazaba gnome" />
+    <a href="/pictures/alcazaba-gnome.jpg">
+        <img src="/pictures/alcazaba-gnome.jpg" alt="alcazaba gnome" />
     </a>
 </p>
 </center>
@@ -89,8 +89,8 @@ people that I've been working with, like Carlos Soriano and Alberto Fanjul.
 
 <center>
 <p class="img">
-    <a href="/static/pictures/guadec-2018.jpg">
-        <img src="/static/pictures/guadec-2018.jpg" alt="guadec 2018 group photo" />
+    <a href="/pictures/guadec-2018.jpg">
+        <img src="/pictures/guadec-2018.jpg" alt="guadec 2018 group photo" />
     </a>
 </p>
 </center>

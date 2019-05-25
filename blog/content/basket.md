@@ -27,8 +27,8 @@ pabellón deportivo de [Fernán Nuñez][2], por lo que ya no tenemos por
 qué jugar a la intemperie en pistas de mala muerte.
 
 <p class="img">
-    <a href="/static/pictures/basket.jpg">
-        <img src="/static/pictures/basket.jpg" />
+    <a href="/pictures/basket.jpg">
+        <img src="/pictures/basket.jpg" />
     </a>
 </p>
 

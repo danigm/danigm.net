@@ -32,7 +32,15 @@ DISQUS_SITENAME = ""
 TWITTER_USERNAME = "danigm"
 
 #A list of the extensions that the markdown processor will use.
-MD_EXTENSIONS = ['codehilite', 'extra']
+MARKDOWN = {
+    'extensions' : ['codehilite', 'extra', 'meta'],
+    'extension_config': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
 
 # The static paths you want to have accessible on the output path “static”. By
 # default, pelican will copy the ‘images’ folder to the output folder.
@@ -45,15 +53,15 @@ FEED_ATOM = "atom.xml"
 # relative url to output the rss feed.
 FEED_RSS = 'rss.xml'
 
-CATEGORY_FEED_RSS = 'feeds/cat/%s.rss.xml'
-CATEGORY_FEED_ATOM = 'feeds/cat/%s.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/cat/{slug}.rss.xml'
+CATEGORY_FEED_ATOM = 'feeds/cat/{slug}.atom.xml'
 
 # relative url to output the tags atom feed. It should be defined using a “%s”
 # matchin the tag name
-TAG_FEED_ATOM = 'feeds/tags/%s.atom.xml'
+TAG_FEED_ATOM = 'feeds/tags/{slug}.atom.xml'
 
 # relative url to output the tag RSS feed
-TAG_FEED_RSS = "feeds/tags/%s.rss.xml"
+TAG_FEED_RSS = "feeds/tags/{slug}.rss.xml"
 
 
 DEFAULT_PAGINATION = 3

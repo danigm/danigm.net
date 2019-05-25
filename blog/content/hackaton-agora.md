@@ -18,8 +18,8 @@ La idea es hacer una gran refactorización, así que hoy toca programar
 mucho y la verdad es que ya iba siendo hora.
 
 <p class="img">
-    <a href="/static/pictures/hack-20121129.png">
-        <img src="/static/pictures/hack-20121129.png" />
+    <a href="/pictures/hack-20121129.png">
+        <img src="/pictures/hack-20121129.png" />
     </a>
 </p>
 

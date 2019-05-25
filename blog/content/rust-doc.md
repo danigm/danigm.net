@@ -153,7 +153,7 @@ ejemplos.
 Podemos ver cómo quedaría esta documentación en el HTML generado:
 
 <p class="img">
-    <img src="/static/pictures/rust-doc-1.png" />
+    <img src="/pictures/rust-doc-1.png" />
 </p>
 
 ### Ejecutando los tests con cargo
@@ -213,7 +213,7 @@ muestra en la documentación generada lo que no está "*comentado*", quedando
 tal que así:
 
 <p class="img">
-    <img src="/static/pictures/rust-doc-2.png" />
+    <img src="/pictures/rust-doc-2.png" />
 </p>
 
 ## Extra: Esconder la documentación en vim
@@ -272,7 +272,7 @@ endfunction
 Por ejemplo, si abro el fichero de **string.rs**:
 
 <p class="img">
-    <img src="/static/pictures/rust-doc-3.png" />
+    <img src="/pictures/rust-doc-3.png" />
 </p>
 
 Y puedo desplegar o contraer los comentarios a mi gusto con **za**.

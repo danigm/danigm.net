@@ -12,7 +12,7 @@ similar to the "m.image" event.
 
 <center>
     <p class="img">
-    <img src="/static/pictures/stickers.gif" width="100%"/>
+    <img src="/pictures/stickers.gif" width="100%"/>
     </p>
 </center>
 

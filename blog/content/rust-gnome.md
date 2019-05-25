@@ -33,8 +33,8 @@ a early alpha stage so Federico give us a little talk about what's
 gnome-class and its parts.
 
 <p class="img">
-    <a href="/static/pictures/madrid-whiteboard.jpg">
-        <img src="/static/pictures/madrid-whiteboard.jpg" />
+    <a href="/pictures/madrid-whiteboard.jpg">
+        <img src="/pictures/madrid-whiteboard.jpg" />
     </a>
 </p>
 
@@ -187,8 +187,8 @@ It was a great experience. Rust is really new in the desktop development,
 but there's a lot of people working so it's great.
 
 <p class="img">
-    <a href="/static/pictures/madrid-food.jpg">
-        <img src="/static/pictures/madrid-food.jpg" />
+    <a href="/pictures/madrid-food.jpg">
+        <img src="/pictures/madrid-food.jpg" />
     </a>
 </p>
 
@@ -204,7 +204,7 @@ can do this because my company is great.
 
 <center>
     <a href="https://wadobo.com">
-        <img src="/static/pictures/wadobo-mini.png" />
+        <img src="/pictures/wadobo-mini.png" />
     </a>
 </center>
 
