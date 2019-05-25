@@ -75,3 +75,5 @@ TAG_CLOUD_MAX_ITEMS = 200
 
 THEME = "danigm-theme"
 #THEME = "dev-random"
+
+RSS_FEED_SUMMARY_ONLY = False
