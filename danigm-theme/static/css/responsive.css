@@ -1,0 +1,35 @@
+@media only screen and (max-width: 600px) {
+    .body,
+    .wrap,
+    .pcontent,
+    #banner nav {
+      width: 100% !important;
+    }
+    .sidebar,
+    .pcontent {
+      float: none !important;
+    }
+    article {
+      padding: 10px;
+    }
+    #posts-list .hentry,
+    #content,
+    #featured {
+      padding: 0px !important;
+    }
+    #posts-list {
+      padding: 10px !important;
+    }
+    #banner h1 a:hover, #banner h1 a:active,
+    #banner h1 a:link, #banner h1 a:visited {
+        width: 100% !important;
+        height: 80px !important;
+        background: url("header.png") center center no-repeat !important;
+        background-size: 90% auto !important;
+    }
+    .sidebar {
+      margin: 0 auto !important;
+      text-align: center !important;
+      float: none !important;
+    }
+}
