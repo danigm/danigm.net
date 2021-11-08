@@ -1,6 +1,6 @@
 Date: 2021-11-08
 Title: Endless Orange Week: Hack content creators platform
-Tags: hack, endless, orangeweek, work
+Tags: hack, endless, orangeweek, work, gnome, software
 Slug: hack-content-creators
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
 
