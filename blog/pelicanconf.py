@@ -23,6 +23,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
+    ('twitch', 'https://twitch.tv/abentogil'),
     ('twitter', 'http://twitter.com/danigm'),
     ('facebook', 'http://facebook.com/danigmx'),
     ('github', 'http://github.com/danigm'),

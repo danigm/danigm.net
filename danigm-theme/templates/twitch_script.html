@@ -1,0 +1,34 @@
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script type="text/javascript">
+    var player = new Twitch.Player("twitch-embed", {
+            width: '100%',
+            muted: true,
+            channel: "abentogil",
+            parent: ["danigm.net"]
+          });
+    player.addEventListener(Twitch.Player.READY, initiate);
+
+    function initiate() {
+      player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+      player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+      player.removeEventListener(Twitch.Player.READY, initiate);
+    }
+
+    function handleOnline() {
+      document.getElementById("twitch").classList.remove('hide');
+      player.removeEventListener(Twitch.Player.ONLINE, handleOnline);
+      player.addEventListener(Twitch.Player.OFFLINE, handleOffline);
+    }
+
+    function handleOffline() {
+      document.getElementById("twitch").classList.add('hide');
+      player.removeEventListener(Twitch.Player.OFFLINE, handleOffline);
+      player.addEventListener(Twitch.Player.ONLINE, handleOnline);
+    }
+</script>
+
+<style>
+ .hide {
+     display: none;
+ }
+</style>
