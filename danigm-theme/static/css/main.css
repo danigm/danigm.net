@@ -323,6 +323,8 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
         background-size: 16px 16px; }
         .social a[href*='hypem.com'] {background-image: url('../images/icons/hype_machine.png');
         background-size: 16px 16px; }
+        .social a[href*='twitch.tv'] {background-image: url('../images/icons/twitch.png');
+        background-size: 16px 16px; }
 
 
 /*
