@@ -3,6 +3,7 @@ Title: Loop: A simple music application
 Tags: gnome, software, music, loop
 Slug: loop
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
+Category: blog
 
 In the last year I've seen some [really good musician][1] that performs all
 the instruments in a song with just a loop machine, recording each instrument

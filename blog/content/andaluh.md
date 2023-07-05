@@ -3,6 +3,7 @@ Title: Andaluh-rs, a lib to transcript Spanish to Andaluh
 Tags: gnome, software, andaluh, language
 Slug: andaluh
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
+Category: blog
 
 Spain is a big region with a lot of languages, we've the official one for
 the whole region, Spanish or Castilian (es-ES), and other officials languages

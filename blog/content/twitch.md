@@ -3,6 +3,7 @@ Title: Twitch: GNOME live coding streaming
 Tags: gnome, software, outreach, twitch, live coding
 Slug: twitch
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
+Category: blog
 
 This year I've started with something that I wanted to do since the first COVID
 lockdown, but never did. So as a first year resolution I decided to start

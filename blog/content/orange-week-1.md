@@ -3,6 +3,7 @@ Title: Endless Orange Week: Hack content creators platform (2)
 Tags: hack, endless, orangeweek, work, gnome, software
 Slug: hack-content-creators-1
 Gravatar: 8da96af78e0089d6d970bf3760b0e724
+Category: blog
 
 The past Friday was the last day of the [Endless Orange Week][1]. It was a nice
 and fun experience, and even if I was not able to do as much as I wanted, we
