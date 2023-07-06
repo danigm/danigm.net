@@ -2,7 +2,7 @@ Date: 2023-07-06
 Title: rpmlint updates (July 2023)
 Tags: gnome, software, rpmlint, suse, gsoc
 Slug: rpmlint-updates
-Gravatar: 8da96af78e0089d6d970bf3760b0e724
+Gravatar: 7ce0b0e40deeb4f549d2a04b3c5ea3cc
 Category: blog
 
 I'm spending some time every week working in the [rpmlint][2] project.
