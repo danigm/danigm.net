@@ -16,10 +16,10 @@ limits.
 The Hack Week 23 was from November 6th to November 10th, and my project was to
 gvie some [love to the GNOME Project][2].
 
-Before the start of the Hack week I asked in the [GNOME Hackers][4] Matrix
-channel, what project needs some help and they gave me some ideas. At the end I
-decided to work on the [GNOME Calendar][3], more specifically, improving the
-test suite and fixing [issues related to timezones][5], DST, etc.
+Before the start of the Hack week I asked in the GNOME devs Matrix channel,
+what project needs some help and they gave me some ideas. At the end I decided
+to work on the [GNOME Calendar][3], more specifically, improving the test suite
+and fixing [issues related to timezones][5], DST, etc.
 
 ## GNOME Calendar
 
@@ -94,7 +94,6 @@ time.
 [1]: https://hackweek.opensuse.org/
 [2]: https://hackweek.opensuse.org/23/projects/gnome-love
 [3]: https://gitlab.gnome.org/GNOME/gnome-calendar/
-[4]: https://matrix.to/#/#gnome-hackers:gnome.org
 [5]: https://gitlab.gnome.org/GNOME/gnome-calendar/-/issues/1093
 [6]: https://gtk.org/
 [7]: https://gitlab.gnome.org/GNOME/evolution-data-server
