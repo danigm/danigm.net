@@ -1,4 +1,4 @@
-Date: 2024-11-22
+Date: 2024-11-22 12:00
 Title: Hackweek 24
 Tags: gnome, work, suse, opensuse, hackweek
 Category: blog
