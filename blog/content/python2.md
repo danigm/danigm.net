@@ -39,7 +39,7 @@ long time so everyone "should" have time to migrate to python 3.
 I started to write python code around the year 2006. I was bored
 during a summer internship at my third year of computer science, and I
 decided to learn something new. In the following months / years I
-heard a lot about the futurist [Python 3000][3], but I didn't worry to
+heard a lot about the futurist [Python 3000][3], but I didn't worry too
 much until it was officially released and the [migration][4] started to be
 a thing.
 
